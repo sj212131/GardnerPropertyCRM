@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/GardnerPropertyCRM/precache-manifest.455a9a16da2392080e7a7f831fbd6679.js"
+  "/GardnerPropertyCRM/precache-manifest.85b5d555d6be59af0f423a0061d8e20c.js"
 );
 
 workbox.clientsClaim();
